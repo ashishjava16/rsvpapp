@@ -29,7 +29,7 @@ spec:
         }
     }
   environment {
-      IMAGE_REPO = "ashishjava16/rsvpapp"
+      IMAGE_REPO = "sigmashish/rsvpapp"
       // Instead of nkhare, use your repo name
   }
   stages {
